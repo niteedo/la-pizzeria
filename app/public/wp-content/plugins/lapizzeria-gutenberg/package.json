@@ -1,0 +1,13 @@
+{
+    "name": "lapizzeria-gutenberg",
+    "version": "1.0.0",
+    "description": "Agrega bloques de Gutenberg",
+    "main": "index.js",
+    "scripts": {
+          "build": "wp-scripts build",
+          "start": "wp-scripts start"
+  },
+    "author": "Javier Muñoz",
+    "license": "ISC"
+  }
+  
